@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/bmi/static/css/main.508386f8.chunk.css",
-    "main.js": "/bmi/static/js/main.eb5d4534.chunk.js",
-    "main.js.map": "/bmi/static/js/main.eb5d4534.chunk.js.map",
-    "runtime-main.js": "/bmi/static/js/runtime-main.35af397a.js",
-    "runtime-main.js.map": "/bmi/static/js/runtime-main.35af397a.js.map",
-    "static/js/2.bddbaab9.chunk.js": "/bmi/static/js/2.bddbaab9.chunk.js",
-    "static/js/2.bddbaab9.chunk.js.map": "/bmi/static/js/2.bddbaab9.chunk.js.map",
-    "index.html": "/bmi/index.html",
-    "static/css/main.508386f8.chunk.css.map": "/bmi/static/css/main.508386f8.chunk.css.map",
-    "static/js/2.bddbaab9.chunk.js.LICENSE.txt": "/bmi/static/js/2.bddbaab9.chunk.js.LICENSE.txt"
+    "main.css": "/bmi.jslowik.pl/static/css/main.508386f8.chunk.css",
+    "main.js": "/bmi.jslowik.pl/static/js/main.eb5d4534.chunk.js",
+    "main.js.map": "/bmi.jslowik.pl/static/js/main.eb5d4534.chunk.js.map",
+    "runtime-main.js": "/bmi.jslowik.pl/static/js/runtime-main.a1d2ceca.js",
+    "runtime-main.js.map": "/bmi.jslowik.pl/static/js/runtime-main.a1d2ceca.js.map",
+    "static/js/2.bddbaab9.chunk.js": "/bmi.jslowik.pl/static/js/2.bddbaab9.chunk.js",
+    "static/js/2.bddbaab9.chunk.js.map": "/bmi.jslowik.pl/static/js/2.bddbaab9.chunk.js.map",
+    "index.html": "/bmi.jslowik.pl/index.html",
+    "static/css/main.508386f8.chunk.css.map": "/bmi.jslowik.pl/static/css/main.508386f8.chunk.css.map",
+    "static/js/2.bddbaab9.chunk.js.LICENSE.txt": "/bmi.jslowik.pl/static/js/2.bddbaab9.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.35af397a.js",
+    "static/js/runtime-main.a1d2ceca.js",
     "static/js/2.bddbaab9.chunk.js",
     "static/css/main.508386f8.chunk.css",
     "static/js/main.eb5d4534.chunk.js"
